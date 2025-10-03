@@ -1,4 +1,4 @@
-I'm a computer science, stack-trace, gdb, vanilla vim, low level enthusiast.
+I'm a computer science, printf debugging, vanilla vim, low level enthusiast.
 
 I don't like genAI for coding (I only use it to help me make my CMakeLists.txt files).
 
